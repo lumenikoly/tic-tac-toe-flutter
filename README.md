@@ -1,8 +1,8 @@
 # tic_tac_toe
 
-Game TIC TAC toe 
+TIC TAC toe game for Android and IOS, created with Flutter! 
 
-![](screenshots\Screenshot_1.png)
+<img src="screenshots/Screenshot_1.png" width="300" alt="screeenshot">
 
 ## Getting Started
 
